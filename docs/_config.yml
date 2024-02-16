@@ -30,8 +30,9 @@ url: "https://salveamicus.github.io" # the base hostname & protocol for your sit
 github_username:  salveamicus
 
 # Build settings
-lsi: false
-safe: true
+theme_color : red
+lsi : false
+safe : true
 source : ..
 incremental : false
 highlighter : rouge
@@ -40,7 +41,7 @@ gist :
 kramdown :
   math_engine : mathjax
   syntax_highlighter : rouge 
-remote_theme: page-themes/cayman
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
