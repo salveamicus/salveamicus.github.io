@@ -9,6 +9,12 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "github-pages", "~> 231", group: :jekyll_plugins
 gem 'jekyll-swiss', '~> 1.0'
+gem 'uri'
+gem 'net-http'
+gem 'faraday-net_http'
+gem 'faraday' 
+gem 'nokogiri'
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
