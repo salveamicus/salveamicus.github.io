@@ -13,7 +13,9 @@ gem 'uri'
 gem 'net-http'
 gem 'faraday-net_http'
 gem 'faraday' 
+gem 'faraday-retry'
 gem 'nokogiri'
+gem 'webrick'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

@@ -282,13 +282,18 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  faraday
+  faraday-net_http
   github-pages (~> 231)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
   jekyll-swiss (~> 1.0)
+  net-http
+  nokogiri
   tzinfo (>= 1, < 3)
   tzinfo-data
+  uri
   wdm (~> 0.1.1)
   webrick
 
