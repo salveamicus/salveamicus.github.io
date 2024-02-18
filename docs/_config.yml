@@ -42,7 +42,10 @@ kramdown :
   math_engine : mathjax
   syntax_highlighter : rouge 
 remote_theme: broccolini/swiss
+<<<<<<< HEAD
   #theme : minima
+=======
+>>>>>>> parent of dab9860 (testing with a different theme)
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
