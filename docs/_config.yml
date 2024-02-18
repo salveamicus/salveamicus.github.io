@@ -41,7 +41,8 @@ gist :
 kramdown :
   math_engine : mathjax
   syntax_highlighter : rouge 
-remote_theme: broccolini/swiss
+    #remote_theme: broccolini/swiss
+theme : minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

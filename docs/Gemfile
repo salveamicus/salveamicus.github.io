@@ -16,6 +16,7 @@ gem 'faraday'
 gem 'faraday-retry'
 gem 'nokogiri'
 gem 'webrick'
+gem 'minima'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
